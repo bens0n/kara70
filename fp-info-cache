@@ -1,4 +1,4 @@
-24779106313194760
+24780846907788874
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99609,6 +99609,13 @@ Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.
 0
 2
 2
+cftkb
+RaspberryPi_CPico
+Raspberry Pi Pico (non-W) surface-mount footprint with debug pads for hand soldering, supports Raspberry Pi Pico 2 (non-W), https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
+module usb pcb swd
+0
+86
+43
 cftkb
 SW_Cherry_MX1A_1.00u_PCB-NOSCREEN
 Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
