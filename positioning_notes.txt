@@ -1,0 +1,28 @@
+LEFT 115.88745
+
+right 261.183936
+
+delta 145.296486 ---> 7.63u
+Should be 0.625+0.75+7 === 8.375
+Is actually 7.625 corresponding to 6.25u spacebar
+Want me a 7u spacebar
+
+Left at 187.32525 corresponding to 9.8333464u
+Left side of 6.25u bar is at 6.708346456u === 127.794
+Need to be at 6.708346456+(7/2)u === 10.208346u ==== 194.469
+Delta is 7.14375
+
+Right diode at 441.0875
+Left at 409.3375
+10 spacings --- 3.174 
+
+
+diode 63.600284 
+66.769747
+
+row
+65
+66.7875
+68.575
+70.3625
+72.15

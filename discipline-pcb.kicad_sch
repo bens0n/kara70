@@ -2162,12 +2162,6 @@
 		(uuid "0ed3ea4d-5d18-4456-a327-756a42c5ed11")
 	)
 	(junction
-		(at 356.87 74.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "10181f9e-edd1-4ad9-b477-1ed46891a205")
-	)
-	(junction
 		(at 232.41 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2234,12 +2228,6 @@
 		(uuid "26349536-7fbc-4470-8175-58726e4ad137")
 	)
 	(junction
-		(at 340.36 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "26ca46da-0216-47b9-929d-e9de31f6bc60")
-	)
-	(junction
 		(at 304.8 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2250,12 +2238,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2ff5b39a-f6ff-4a0f-b013-072fdc76a8e1")
-	)
-	(junction
-		(at 340.36 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3046648d-aec5-48fe-8fe8-0a9370af7294")
 	)
 	(junction
 		(at 91.44 142.24)
@@ -2454,12 +2436,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "70003339-c8ef-4925-928b-aa10d095daa9")
-	)
-	(junction
-		(at 356.87 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "71a77f08-62cb-4b82-b943-9ac9eea04567")
 	)
 	(junction
 		(at 161.29 88.9)
@@ -3089,16 +3065,6 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 74.93) (xy 340.36 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0df84fdb-c425-49e9-bdf9-1ed4aa4de617")
-	)
-	(wire
-		(pts
 			(xy 267.97 104.14) (xy 267.97 119.38)
 		)
 		(stroke
@@ -3359,7 +3325,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 97.79) (xy 358.14 97.79)
+			(xy 304.8 97.79) (xy 358.14 97.79)
 		)
 		(stroke
 			(width 0)
@@ -3829,26 +3795,6 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 88.9) (xy 340.36 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "465b6903-cfaa-4688-9ff2-92f6dcf18072")
-	)
-	(wire
-		(pts
-			(xy 304.8 97.79) (xy 340.36 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "46e02d46-a365-4ae6-9a44-39dc9a2582c2")
-	)
-	(wire
-		(pts
 			(xy 144.78 97.79) (xy 162.56 97.79)
 		)
 		(stroke
@@ -4019,16 +3965,6 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 83.82) (xy 340.36 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "559cd70d-f2e9-4a23-8cb9-48dc5b74a46a")
-	)
-	(wire
-		(pts
 			(xy 287.02 119.38) (xy 287.02 120.65)
 		)
 		(stroke
@@ -4169,7 +4105,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 83.82) (xy 358.14 83.82)
+			(xy 304.8 83.82) (xy 358.14 83.82)
 		)
 		(stroke
 			(width 0)
@@ -4489,16 +4425,6 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 74.93) (xy 340.36 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76cbc39c-9d5f-450d-8ad7-d51a223a7f6f")
-	)
-	(wire
-		(pts
 			(xy 196.85 74.93) (xy 196.85 88.9)
 		)
 		(stroke
@@ -4546,16 +4472,6 @@
 			(type default)
 		)
 		(uuid "79cc18aa-1430-4689-b0e6-84fa7918c726")
-	)
-	(wire
-		(pts
-			(xy 356.87 74.93) (xy 356.87 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b5b027a-da33-42c8-9c2f-9e849a17dc74")
 	)
 	(wire
 		(pts
@@ -5389,16 +5305,6 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 88.9) (xy 340.36 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bf582716-5633-41fb-8947-a4f3b769a20e")
-	)
-	(wire
-		(pts
 			(xy 238.76 222.25) (xy 241.3 222.25)
 		)
 		(stroke
@@ -5769,7 +5675,7 @@
 	)
 	(wire
 		(pts
-			(xy 356.87 73.66) (xy 356.87 74.93)
+			(xy 356.87 73.66) (xy 356.87 133.35)
 		)
 		(stroke
 			(width 0)
@@ -6166,16 +6072,6 @@
 			(type default)
 		)
 		(uuid "f7fce6d8-3cd7-4e8f-af76-7997c0c57781")
-	)
-	(wire
-		(pts
-			(xy 356.87 88.9) (xy 356.87 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f817b6bb-90de-4335-a090-b700df5db7f0")
 	)
 	(wire
 		(pts
@@ -15190,7 +15086,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005be881b8")
-		(property "Reference" "D63"
+		(property "Reference" "D73"
 			(at 235.6866 137.2616 90)
 			(effects
 				(font
@@ -15243,7 +15139,7 @@
 		(instances
 			(project ""
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D63")
+					(reference "D73")
 					(unit 1)
 				)
 			)
@@ -15258,7 +15154,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005be881c8")
-		(property "Reference" "D64"
+		(property "Reference" "D74"
 			(at 253.4666 137.2616 90)
 			(effects
 				(font
@@ -15311,7 +15207,7 @@
 		(instances
 			(project ""
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D64")
+					(reference "D74")
 					(unit 1)
 				)
 			)
@@ -16298,72 +16194,6 @@
 		)
 	)
 	(symbol
-		(lib_id "discipline-pcb-rescue:KEYSW-keyboard_parts")
-		(at 349.25 74.93 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "39a94e9b-db4f-4335-a1c1-70c2a738b838")
-		(property "Reference" "SW69"
-			(at 349.25 69.0118 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "KEYSW"
-			(at 349.25 77.47 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
-			(at 349.25 74.93 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 349.25 74.93 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 349.25 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "2951ffae-b08f-4179-a12d-84d6322036e6")
-		)
-		(pin "2"
-			(uuid "aceeb43d-7311-4d50-acc7-f59066eb17aa")
-		)
-		(instances
-			(project "discipline-pcb"
-				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "SW69")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D")
 		(at 375.92 93.98 90)
 		(unit 1)
@@ -16760,74 +16590,6 @@
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
 					(reference "SW57")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 340.36 80.01 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5334aebf-fc9c-4fb7-9f35-1000ead55cb2")
-		(property "Reference" "D69"
-			(at 342.3666 78.8416 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "~"
-			(at 342.3666 81.153 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal"
-			(at 340.36 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 340.36 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 340.36 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1851cc70-6f95-4a9c-8889-b80ace9cfdee")
-		)
-		(pin "2"
-			(uuid "de9d2509-7a5b-4355-96d0-81cd10940b25")
-		)
-		(instances
-			(project "discipline-pcb"
-				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D69")
 					(unit 1)
 				)
 			)
@@ -17367,74 +17129,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 340.36 93.98 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9f653bf5-cdbf-4c63-ab5d-5ec9006be907")
-		(property "Reference" "D70"
-			(at 342.3666 92.8116 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "~"
-			(at 342.3666 95.123 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal"
-			(at 340.36 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 340.36 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 340.36 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "fa8553e2-985a-4057-9b8e-a5836614fe3c")
-		)
-		(pin "2"
-			(uuid "bf4b749b-af0d-49d9-9d24-5274b529c2ef")
-		)
-		(instances
-			(project "discipline-pcb"
-				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D70")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "MCU_Module:RaspberryPi_Pico")
 		(at 264.16 217.17 0)
 		(unit 1)
@@ -17745,72 +17439,6 @@
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
 					(reference "SW81")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "discipline-pcb-rescue:KEYSW-keyboard_parts")
-		(at 349.25 88.9 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c12bd5b3-955a-44bc-9452-e253c0628f6a")
-		(property "Reference" "SW70"
-			(at 349.25 82.9818 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "KEYSW"
-			(at 349.25 91.44 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
-			(at 349.25 88.9 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 349.25 88.9 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 349.25 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "35f1985d-79c1-47a6-b6bd-e9576026e7e0")
-		)
-		(pin "2"
-			(uuid "506a647f-7a20-45b5-9275-01545ff4dda1")
-		)
-		(instances
-			(project "discipline-pcb"
-				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "SW70")
 					(unit 1)
 				)
 			)
