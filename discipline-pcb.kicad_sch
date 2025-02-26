@@ -2036,6 +2036,12 @@
 		(uuid "3fd0d4f3-90e1-470b-9935-1fd825034f70")
 	)
 	(junction
+		(at 304.8 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4154b313-0dc4-43e5-97f8-ad0430e8092c")
+	)
+	(junction
 		(at 233.68 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2168,12 +2174,6 @@
 		(uuid "683a28e7-06b4-458b-80c9-4c76d0ae75ce")
 	)
 	(junction
-		(at 269.24 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "69e1c764-a16c-4058-8095-65a6e1f193ea")
-	)
-	(junction
 		(at 304.8 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2292,12 +2292,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "90af2d31-b440-454e-81e8-3f34b50709e8")
-	)
-	(junction
-		(at 233.68 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9104ec2f-42df-4925-8157-14d6fda9928d")
 	)
 	(junction
 		(at 91.44 97.79)
@@ -2478,6 +2472,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c2f0fb7f-a74e-469d-b997-18efe19a3172")
+	)
+	(junction
+		(at 269.24 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c2f670e7-9af4-4551-bdf3-437108e5570c")
 	)
 	(junction
 		(at 356.87 74.93)
@@ -2939,6 +2939,16 @@
 	)
 	(wire
 		(pts
+			(xy 269.24 142.24) (xy 304.8 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15bbd27f-85dd-4256-bebd-b2be3657efcd")
+	)
+	(wire
+		(pts
 			(xy 181.61 74.93) (xy 180.34 74.93)
 		)
 		(stroke
@@ -2966,16 +2976,6 @@
 			(type default)
 		)
 		(uuid "1797b07e-9203-4dab-b33b-af0bb8d9eeb8")
-	)
-	(wire
-		(pts
-			(xy 306.07 133.35) (xy 304.8 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "18a882a7-8f50-4030-9807-650ad4081535")
 	)
 	(wire
 		(pts
@@ -3169,7 +3169,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 149.86) (xy 234.95 133.35)
+			(xy 252.73 149.86) (xy 252.73 133.35)
 		)
 		(stroke
 			(width 0)
@@ -3289,7 +3289,7 @@
 	)
 	(wire
 		(pts
-			(xy 285.75 119.38) (xy 285.75 133.35)
+			(xy 285.75 119.38) (xy 285.75 149.86)
 		)
 		(stroke
 			(width 0)
@@ -3356,16 +3356,6 @@
 			(type default)
 		)
 		(uuid "377dda1a-332f-4373-9618-88a4c7785854")
-	)
-	(wire
-		(pts
-			(xy 233.68 142.24) (xy 251.46 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "378270ad-5c5c-4e8b-9e57-ef8afac54bc1")
 	)
 	(wire
 		(pts
@@ -3539,16 +3529,6 @@
 	)
 	(wire
 		(pts
-			(xy 339.09 73.66) (xy 339.09 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4301d505-6d81-4b08-bcba-b464a3f07a5d")
-	)
-	(wire
-		(pts
 			(xy 67.31 104.14) (xy 67.31 102.235)
 		)
 		(stroke
@@ -3576,16 +3556,6 @@
 			(type default)
 		)
 		(uuid "470fddc7-21f9-43bd-a025-96c3ae5314b1")
-	)
-	(wire
-		(pts
-			(xy 269.24 133.35) (xy 269.24 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "481f0ab2-4365-4629-bf6c-cf1b518fe9ea")
 	)
 	(wire
 		(pts
@@ -3756,6 +3726,16 @@
 			(type default)
 		)
 		(uuid "557ea859-c6eb-41bd-b9cc-ba7afc96cdf8")
+	)
+	(wire
+		(pts
+			(xy 304.8 142.24) (xy 340.36 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56357fff-9423-4d70-b8f9-e90b89377257")
 	)
 	(wire
 		(pts
@@ -4029,7 +4009,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 142.24) (xy 233.68 142.24)
+			(xy 180.34 142.24) (xy 251.46 142.24)
 		)
 		(stroke
 			(width 0)
@@ -4359,7 +4339,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 133.35) (xy 251.46 133.35)
+			(xy 270.51 133.35) (xy 269.24 133.35)
 		)
 		(stroke
 			(width 0)
@@ -4409,7 +4389,7 @@
 	)
 	(wire
 		(pts
-			(xy 270.51 133.35) (xy 269.24 133.35)
+			(xy 306.07 133.35) (xy 304.8 133.35)
 		)
 		(stroke
 			(width 0)
@@ -5119,7 +5099,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 133.35) (xy 233.68 133.35)
+			(xy 252.73 133.35) (xy 251.46 133.35)
 		)
 		(stroke
 			(width 0)
@@ -5196,16 +5176,6 @@
 			(type default)
 		)
 		(uuid "c625bff3-bd98-4950-848a-643f1666023d")
-	)
-	(wire
-		(pts
-			(xy 238.76 209.55) (xy 241.3 209.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c625f2ac-ab73-4869-a87a-c5472b6d9dc9")
 	)
 	(wire
 		(pts
@@ -5359,7 +5329,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 133.35) (xy 233.68 134.62)
+			(xy 251.46 133.35) (xy 251.46 134.62)
 		)
 		(stroke
 			(width 0)
@@ -5386,26 +5356,6 @@
 			(type default)
 		)
 		(uuid "d1c00a89-5f6b-4fbe-aa8a-2c4a97ef4086")
-	)
-	(wire
-		(pts
-			(xy 287.02 133.35) (xy 287.02 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d31801f1-4826-45e4-9835-1dc7b5687ea5")
-	)
-	(wire
-		(pts
-			(xy 288.29 133.35) (xy 287.02 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d34982c4-15d4-4941-b8a7-b4dc0d4568f0")
 	)
 	(wire
 		(pts
@@ -5689,16 +5639,6 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 142.24) (xy 340.36 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea040d50-e8aa-46e7-be53-0413bb4501de")
-	)
-	(wire
-		(pts
 			(xy 214.63 74.93) (xy 214.63 88.9)
 		)
 		(stroke
@@ -5719,7 +5659,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 149.86) (xy 252.73 133.35)
+			(xy 270.51 149.86) (xy 270.51 133.35)
 		)
 		(stroke
 			(width 0)
@@ -5889,7 +5829,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 133.35) (xy 251.46 134.62)
+			(xy 269.24 133.35) (xy 269.24 134.62)
 		)
 		(stroke
 			(width 0)
@@ -6087,7 +6027,7 @@
 		)
 		(uuid "33121045-a065-449e-9488-33a99f907818")
 	)
-	(label "col14"
+	(label "col16"
 		(at 392.43 77.47 270)
 		(effects
 			(font
@@ -6117,7 +6057,7 @@
 		)
 		(uuid "6996122a-fda3-4d65-8bcc-1747655247e1")
 	)
-	(label "col14"
+	(label "col15"
 		(at 374.65 77.47 270)
 		(effects
 			(font
@@ -6237,16 +6177,6 @@
 		)
 		(uuid "f0f5131e-ecdb-43a9-a222-396d08b97d48")
 	)
-	(label "col14"
-		(at 339.09 77.47 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "f67d8429-82de-4b77-98cf-64b5bc87c926")
-	)
 	(label "col8"
 		(at 232.41 78.74 270)
 		(effects
@@ -6266,28 +6196,6 @@
 			(justify left bottom)
 		)
 		(uuid "ff067cf5-4ce4-4ef8-8f0a-8fc1156f206a")
-	)
-	(global_label "col17"
-		(shape input)
-		(at 238.76 209.55 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "005c6042-ee76-4cf1-9b11-e5ec499a7199")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 231.1072 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
 	)
 	(global_label "col9"
 		(shape input)
@@ -6351,7 +6259,7 @@
 			)
 		)
 	)
-	(global_label "col15"
+	(global_label "col14"
 		(shape input)
 		(at 356.87 73.66 90)
 		(effects
@@ -6603,7 +6511,7 @@
 			)
 		)
 	)
-	(global_label "col17"
+	(global_label "col16"
 		(shape input)
 		(at 392.43 73.66 90)
 		(effects
@@ -6875,26 +6783,6 @@
 			)
 		)
 	)
-	(global_label "col14"
-		(shape input)
-		(at 339.09 73.66 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9fb09797-9547-4306-8817-eebe24a697af")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 339.09 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "col2"
 		(shape input)
 		(at 125.73 73.66 90)
@@ -7001,7 +6889,7 @@
 			)
 		)
 	)
-	(global_label "col16"
+	(global_label "col15"
 		(shape input)
 		(at 374.65 73.66 90)
 		(effects
@@ -14873,7 +14761,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 233.68 138.43 90)
+		(at 251.46 138.43 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14881,74 +14769,6 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005be881b8")
 		(property "Reference" "D73"
-			(at 235.6866 137.2616 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "~"
-			(at 235.6866 139.573 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal"
-			(at 233.68 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 233.68 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 233.68 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "cea97db7-aec5-461b-bc52-b975624e88e6")
-		)
-		(pin "2"
-			(uuid "f813045d-ec56-4492-8c50-a604d6843844")
-		)
-		(instances
-			(project ""
-				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D73")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 251.46 138.43 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005be881c8")
-		(property "Reference" "D74"
 			(at 253.4666 137.2616 90)
 			(effects
 				(font
@@ -14986,6 +14806,74 @@
 		)
 		(property "Description" ""
 			(at 251.46 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cea97db7-aec5-461b-bc52-b975624e88e6")
+		)
+		(pin "2"
+			(uuid "f813045d-ec56-4492-8c50-a604d6843844")
+		)
+		(instances
+			(project ""
+				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
+					(reference "D73")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 269.24 138.43 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "00000000-0000-0000-0000-00005be881c8")
+		(property "Reference" "D74"
+			(at 271.2466 137.2616 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "~"
+			(at 271.2466 139.573 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal"
+			(at 269.24 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 269.24 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 269.24 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15267,7 +15155,7 @@
 	)
 	(symbol
 		(lib_id "discipline-pcb-rescue:KEYSW-keyboard_parts")
-		(at 242.57 149.86 0)
+		(at 260.35 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15275,72 +15163,6 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005dd3207d")
 		(property "Reference" "SW73"
-			(at 242.57 143.9418 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "KEYSW"
-			(at 242.57 152.4 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.50u_PCBNOSCREEN"
-			(at 242.57 149.86 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 242.57 149.86 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 242.57 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "72e012c4-73ed-4c74-b8c7-a931003452b7")
-		)
-		(pin "1"
-			(uuid "a6b81c9d-104d-4b80-acb2-e35435399bf0")
-		)
-		(instances
-			(project ""
-				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "SW73")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "discipline-pcb-rescue:KEYSW-keyboard_parts")
-		(at 260.35 149.86 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005dd72960")
-		(property "Reference" "SW74"
 			(at 260.35 143.9418 0)
 			(effects
 				(font
@@ -15376,6 +15198,72 @@
 		)
 		(property "Description" ""
 			(at 260.35 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "72e012c4-73ed-4c74-b8c7-a931003452b7")
+		)
+		(pin "1"
+			(uuid "a6b81c9d-104d-4b80-acb2-e35435399bf0")
+		)
+		(instances
+			(project ""
+				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
+					(reference "SW73")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "discipline-pcb-rescue:KEYSW-keyboard_parts")
+		(at 278.13 149.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "00000000-0000-0000-0000-00005dd72960")
+		(property "Reference" "SW74"
+			(at 278.13 143.9418 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "KEYSW"
+			(at 278.13 152.4 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.50u_PCBNOSCREEN"
+			(at 278.13 149.86 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 278.13 149.86 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 278.13 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15937,7 +15825,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 269.24 138.43 90)
+		(at 304.8 138.43 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15945,7 +15833,7 @@
 		(dnp no)
 		(uuid "4eae8458-87e6-4eb1-88c5-43baa450a68a")
 		(property "Reference" "D57"
-			(at 271.2466 137.2616 90)
+			(at 306.8066 137.2616 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15954,7 +15842,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 271.2466 139.573 90)
+			(at 306.8066 139.573 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15963,7 +15851,7 @@
 			)
 		)
 		(property "Footprint" "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal"
-			(at 269.24 138.43 0)
+			(at 304.8 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15972,7 +15860,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 269.24 138.43 0)
+			(at 304.8 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15981,7 +15869,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 269.24 138.43 0)
+			(at 304.8 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16005,7 +15893,7 @@
 	)
 	(symbol
 		(lib_id "discipline-pcb-rescue:KEYSW-keyboard_parts")
-		(at 278.13 133.35 0)
+		(at 313.69 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16013,7 +15901,7 @@
 		(dnp no)
 		(uuid "50dd1468-620e-4800-998a-b7ae1a762d08")
 		(property "Reference" "SW57"
-			(at 278.13 127.4318 0)
+			(at 313.69 127.4318 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -16021,7 +15909,7 @@
 			)
 		)
 		(property "Value" "KEYSW"
-			(at 278.13 135.89 0)
+			(at 313.69 135.89 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -16030,7 +15918,7 @@
 			)
 		)
 		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.25u_PCBNOSCREEN"
-			(at 278.13 133.35 0)
+			(at 313.69 133.35 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -16039,7 +15927,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 278.13 133.35 0)
+			(at 313.69 133.35 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -16047,7 +15935,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 278.13 133.35 0)
+			(at 313.69 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)

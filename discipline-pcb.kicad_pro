@@ -937,6 +937,10 @@
       {
         "netclass": "Default",
         "pattern": "row4"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "col15"
       }
     ]
   },
