@@ -2168,12 +2168,6 @@
 		(uuid "63897a4a-7aca-4ec8-894c-a5cc04c0019a")
 	)
 	(junction
-		(at 73.66 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "683a28e7-06b4-458b-80c9-4c76d0ae75ce")
-	)
-	(junction
 		(at 304.8 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3539,16 +3533,6 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 104.14) (xy 67.31 102.235)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "44af05a5-a658-42b8-a9c2-a03acba3658f")
-	)
-	(wire
-		(pts
 			(xy 269.24 83.82) (xy 287.02 83.82)
 		)
 		(stroke
@@ -3606,16 +3590,6 @@
 			(type default)
 		)
 		(uuid "49fc025b-2a29-4fa1-bda4-ea4785acb993")
-	)
-	(wire
-		(pts
-			(xy 86.36 102.235) (xy 86.36 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c0af46a-232d-4a62-8af7-80cd09860eaf")
 	)
 	(wire
 		(pts
@@ -3909,16 +3883,6 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 104.14) (xy 68.58 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5f47a5cb-5798-4eb3-a329-9bb9e415ea50")
-	)
-	(wire
-		(pts
 			(xy 304.8 83.82) (xy 340.36 83.82)
 		)
 		(stroke
@@ -3946,16 +3910,6 @@
 			(type default)
 		)
 		(uuid "62dfafd2-fd8c-42c2-a63c-df330af5ac45")
-	)
-	(wire
-		(pts
-			(xy 67.31 102.235) (xy 86.36 102.235)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "645b73ec-1f5c-4642-966c-38f5094458b0")
 	)
 	(wire
 		(pts
@@ -4519,16 +4473,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 106.045) (xy 52.07 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d88faf5-815b-41ee-a134-8981ae18e186")
-	)
-	(wire
-		(pts
 			(xy 180.34 97.79) (xy 198.12 97.79)
 		)
 		(stroke
@@ -4566,16 +4510,6 @@
 			(type default)
 		)
 		(uuid "8f830bbc-ac5e-465c-ba2d-9190ccd70f4a")
-	)
-	(wire
-		(pts
-			(xy 68.58 104.14) (xy 68.58 106.045)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8f932778-ec45-44c7-b90f-123617e99fcf")
 	)
 	(wire
 		(pts
@@ -5619,16 +5553,6 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 104.14) (xy 90.17 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e84ad1c7-e277-4f93-a17a-a9ccd88bb900")
-	)
-	(wire
-		(pts
 			(xy 110.49 88.9) (xy 109.22 88.9)
 		)
 		(stroke
@@ -5796,16 +5720,6 @@
 			(type default)
 		)
 		(uuid "f493f09f-d08f-46ec-8256-5b4b9fb62c21")
-	)
-	(wire
-		(pts
-			(xy 68.58 106.045) (xy 52.07 106.045)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f5ac58a2-71f8-45db-a3a5-fad4c4c37bd9")
 	)
 	(wire
 		(pts
@@ -7147,7 +7061,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 82.55 74.93 0)
 			(effects
 				(font
@@ -7281,7 +7195,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 100.33 74.93 0)
 			(effects
 				(font
@@ -7415,7 +7329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 118.11 74.93 0)
 			(effects
 				(font
@@ -7549,7 +7463,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 135.89 74.93 0)
 			(effects
 				(font
@@ -7683,7 +7597,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 153.67 74.93 0)
 			(effects
 				(font
@@ -7817,7 +7731,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 171.45 74.93 0)
 			(effects
 				(font
@@ -7951,7 +7865,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 189.23 74.93 0)
 			(effects
 				(font
@@ -8085,7 +7999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 207.01 74.93 0)
 			(effects
 				(font
@@ -8219,7 +8133,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 224.79 74.93 0)
 			(effects
 				(font
@@ -8353,7 +8267,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 242.57 74.93 0)
 			(effects
 				(font
@@ -8487,7 +8401,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 260.35 74.93 0)
 			(effects
 				(font
@@ -8621,7 +8535,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 278.13 74.93 0)
 			(effects
 				(font
@@ -8755,7 +8669,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 295.91 74.93 0)
 			(effects
 				(font
@@ -8889,7 +8803,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_2.00u_PCBNOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-2U"
 			(at 313.69 74.93 0)
 			(effects
 				(font
@@ -9023,7 +8937,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.50u_PCBNOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.5U"
 			(at 82.55 88.9 0)
 			(effects
 				(font
@@ -9157,7 +9071,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 100.33 88.9 0)
 			(effects
 				(font
@@ -9291,7 +9205,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 118.11 88.9 0)
 			(effects
 				(font
@@ -9425,7 +9339,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 135.89 88.9 0)
 			(effects
 				(font
@@ -9559,7 +9473,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 153.67 88.9 0)
 			(effects
 				(font
@@ -9693,7 +9607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 171.45 88.9 0)
 			(effects
 				(font
@@ -9827,7 +9741,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 189.23 88.9 0)
 			(effects
 				(font
@@ -9961,7 +9875,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 207.01 88.9 0)
 			(effects
 				(font
@@ -10095,7 +10009,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 224.79 88.9 0)
 			(effects
 				(font
@@ -10229,7 +10143,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 242.57 88.9 0)
 			(effects
 				(font
@@ -10363,7 +10277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 260.35 88.9 0)
 			(effects
 				(font
@@ -10497,7 +10411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 278.13 88.9 0)
 			(effects
 				(font
@@ -10631,7 +10545,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 295.91 88.9 0)
 			(effects
 				(font
@@ -10765,7 +10679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.50u_PCBNOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.5U"
 			(at 313.69 88.9 0)
 			(effects
 				(font
@@ -10899,7 +10813,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.75u_PCBNOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.75U"
 			(at 82.55 104.14 0)
 			(effects
 				(font
@@ -11033,7 +10947,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 100.33 104.14 0)
 			(effects
 				(font
@@ -11167,7 +11081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 118.11 104.14 0)
 			(effects
 				(font
@@ -11301,7 +11215,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 135.89 104.14 0)
 			(effects
 				(font
@@ -11435,7 +11349,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 153.67 104.14 0)
 			(effects
 				(font
@@ -11569,7 +11483,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 171.45 104.14 0)
 			(effects
 				(font
@@ -11703,7 +11617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 189.23 104.14 0)
 			(effects
 				(font
@@ -11837,7 +11751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 207.01 104.14 0)
 			(effects
 				(font
@@ -11971,7 +11885,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 224.79 104.14 0)
 			(effects
 				(font
@@ -12105,7 +12019,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 242.57 104.14 0)
 			(effects
 				(font
@@ -12239,7 +12153,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 260.35 104.14 0)
 			(effects
 				(font
@@ -12373,7 +12287,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 278.13 104.14 0)
 			(effects
 				(font
@@ -12507,7 +12421,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_2.25u_PCBNOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-2.25U"
 			(at 313.69 104.14 0)
 			(effects
 				(font
@@ -12641,7 +12555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_2.25u_PCBNOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-2.25U"
 			(at 82.55 119.38 0)
 			(effects
 				(font
@@ -12775,7 +12689,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 118.11 119.38 0)
 			(effects
 				(font
@@ -12909,7 +12823,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 135.89 119.38 0)
 			(effects
 				(font
@@ -13043,7 +12957,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 153.67 119.38 0)
 			(effects
 				(font
@@ -13177,7 +13091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 171.45 119.38 0)
 			(effects
 				(font
@@ -13311,7 +13225,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 189.23 119.38 0)
 			(effects
 				(font
@@ -13445,7 +13359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 207.01 119.38 0)
 			(effects
 				(font
@@ -13579,7 +13493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 224.79 119.38 0)
 			(effects
 				(font
@@ -13713,7 +13627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 242.57 119.38 0)
 			(effects
 				(font
@@ -13847,7 +13761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 260.35 119.38 0)
 			(effects
 				(font
@@ -13981,7 +13895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 278.13 119.38 0)
 			(effects
 				(font
@@ -14115,7 +14029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_2.75u_PCB_NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-2.75U"
 			(at 295.91 119.38 0)
 			(effects
 				(font
@@ -14249,7 +14163,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.25u_PCBNOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
 			(at 82.55 133.35 0)
 			(effects
 				(font
@@ -14383,7 +14297,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.25u_PCBNOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
 			(at 100.33 133.35 0)
 			(effects
 				(font
@@ -14517,7 +14431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.25u_PCBNOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
 			(at 118.11 133.35 0)
 			(effects
 				(font
@@ -14651,7 +14565,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-7U-ReversedStabilizers"
 			(at 189.23 133.35 0)
 			(effects
 				(font
@@ -15179,7 +15093,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.50u_PCBNOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.5U"
 			(at 260.35 149.86 0)
 			(effects
 				(font
@@ -15245,7 +15159,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.50u_PCBNOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.5U"
 			(at 278.13 149.86 0)
 			(effects
 				(font
@@ -15447,7 +15361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 384.81 74.93 0)
 			(effects
 				(font
@@ -15917,7 +15831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.25u_PCBNOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1.25U"
 			(at 313.69 133.35 0)
 			(effects
 				(font
@@ -15983,7 +15897,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 384.81 88.9 0)
 			(effects
 				(font
@@ -16247,7 +16161,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 349.25 74.93 0)
 			(effects
 				(font
@@ -16313,7 +16227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 349.25 88.9 0)
 			(effects
 				(font
@@ -16379,7 +16293,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 367.03 133.35 0)
 			(effects
 				(font
@@ -16445,7 +16359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 367.03 88.9 0)
 			(effects
 				(font
@@ -16831,7 +16745,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 349.25 133.35 0)
 			(effects
 				(font
@@ -16897,7 +16811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 384.81 133.35 0)
 			(effects
 				(font
@@ -16963,7 +16877,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 367.03 74.93 0)
 			(effects
 				(font
@@ -17029,7 +16943,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cftkb:SW_Cherry_MX1A_1.00u_PCB-NOSCREEN"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 367.03 119.38 0)
 			(effects
 				(font
