@@ -18555,7 +18555,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d1ad596")
-		(property "Reference" "LED1"
+		(property "Reference" "LED_5V1"
 			(at 49.53 180.34 0)
 			(effects
 				(font
@@ -18606,7 +18606,7 @@
 		(instances
 			(project ""
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "LED1")
+					(reference "LED_5V1")
 					(unit 1)
 				)
 			)
