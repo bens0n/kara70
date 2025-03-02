@@ -19082,7 +19082,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0341ae6a-cb6d-4c1d-8746-6637b90cd144")
-		(property "Reference" "D99"
+		(property "Reference" "LED29"
 			(at 365.76 190.4298 0)
 			(effects
 				(font
@@ -19142,7 +19142,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D99")
+					(reference "LED29")
 					(unit 1)
 				)
 			)
@@ -19158,7 +19158,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "045d4b58-a1f3-4cd8-b823-531ef3aa540f")
-		(property "Reference" "D94"
+		(property "Reference" "LED24"
 			(at 391.16 171.3798 0)
 			(effects
 				(font
@@ -19218,7 +19218,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D94")
+					(reference "LED24")
 					(unit 1)
 				)
 			)
@@ -19234,7 +19234,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "098914a6-fa7c-48cb-9e28-1ba9116d1b83")
-		(property "Reference" "D44"
+		(property "Reference" "LED3"
 			(at 313.69 112.9598 0)
 			(effects
 				(font
@@ -19294,7 +19294,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D44")
+					(reference "LED3")
 					(unit 1)
 				)
 			)
@@ -20000,7 +20000,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "347b9365-dcde-4315-ab14-d3bcb76331e7")
-		(property "Reference" "D86"
+		(property "Reference" "LED16"
 			(at 339.09 152.3298 0)
 			(effects
 				(font
@@ -20060,7 +20060,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D86")
+					(reference "LED16")
 					(unit 1)
 				)
 			)
@@ -20142,7 +20142,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35a4375b-146d-4e07-8cab-4e2e3012ada8")
-		(property "Reference" "D89"
+		(property "Reference" "LED19"
 			(at 265.43 171.3798 0)
 			(effects
 				(font
@@ -20202,7 +20202,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D89")
+					(reference "LED19")
 					(unit 1)
 				)
 			)
@@ -20354,7 +20354,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3db4977d-1761-4198-9e0a-1a8d73d0caa1")
-		(property "Reference" "D84"
+		(property "Reference" "LED14"
 			(at 288.29 152.3298 0)
 			(effects
 				(font
@@ -20414,7 +20414,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D84")
+					(reference "LED14")
 					(unit 1)
 				)
 			)
@@ -20702,7 +20702,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47b57774-b2f0-4e55-acb4-1e6ba91259c4")
-		(property "Reference" "D15"
+		(property "Reference" "LED1"
 			(at 265.43 112.9598 0)
 			(effects
 				(font
@@ -20762,7 +20762,7 @@
 		(instances
 			(project ""
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D15")
+					(reference "LED1")
 					(unit 1)
 				)
 			)
@@ -20846,7 +20846,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a0eb28e-ba24-4c9a-ad81-379e883f88c6")
-		(property "Reference" "D100"
+		(property "Reference" "LED30"
 			(at 391.16 190.4298 0)
 			(effects
 				(font
@@ -20906,7 +20906,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D100")
+					(reference "LED30")
 					(unit 1)
 				)
 			)
@@ -20922,7 +20922,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c96abe4-5bd3-4e9c-b7fe-532a1e12a9d4")
-		(property "Reference" "D70"
+		(property "Reference" "LED7"
 			(at 265.43 133.2798 0)
 			(effects
 				(font
@@ -20982,7 +20982,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D70")
+					(reference "LED7")
 					(unit 1)
 				)
 			)
@@ -20998,7 +20998,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d23b709-74d7-4ebf-b245-c07765b8845c")
-		(property "Reference" "D90"
+		(property "Reference" "LED20"
 			(at 288.29 171.3798 0)
 			(effects
 				(font
@@ -21058,7 +21058,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D90")
+					(reference "LED20")
 					(unit 1)
 				)
 			)
@@ -21142,7 +21142,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ee1ea74-8cb7-4210-b0d3-a8a7567b5eb3")
-		(property "Reference" "D93"
+		(property "Reference" "LED23"
 			(at 365.76 171.3798 0)
 			(effects
 				(font
@@ -21202,7 +21202,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D93")
+					(reference "LED23")
 					(unit 1)
 				)
 			)
@@ -21618,7 +21618,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6e09b314-1d2f-4fa0-87f0-d56d80c32427")
-		(property "Reference" "D96"
+		(property "Reference" "LED26"
 			(at 288.29 190.4298 0)
 			(effects
 				(font
@@ -21678,7 +21678,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D96")
+					(reference "LED26")
 					(unit 1)
 				)
 			)
@@ -21760,7 +21760,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7129e5e4-cb14-40c1-acc6-809f768a1040")
-		(property "Reference" "D64"
+		(property "Reference" "LED6"
 			(at 391.16 112.9598 0)
 			(effects
 				(font
@@ -21820,7 +21820,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D64")
+					(reference "LED6")
 					(unit 1)
 				)
 			)
@@ -22042,7 +22042,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "775ba0b9-4683-45b3-9071-568aba8ff303")
-		(property "Reference" "D87"
+		(property "Reference" "LED17"
 			(at 365.76 152.3298 0)
 			(effects
 				(font
@@ -22102,7 +22102,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D87")
+					(reference "LED17")
 					(unit 1)
 				)
 			)
@@ -22118,7 +22118,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7af711b6-55b2-46ab-a010-37c6a4b5ea1d")
-		(property "Reference" "D66"
+		(property "Reference" "LED11"
 			(at 365.76 133.2798 0)
 			(effects
 				(font
@@ -22178,7 +22178,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D66")
+					(reference "LED11")
 					(unit 1)
 				)
 			)
@@ -22264,7 +22264,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80c5c06c-c1e3-424e-86ee-122a3ebc3bf1")
-		(property "Reference" "D98"
+		(property "Reference" "LED28"
 			(at 339.09 190.4298 0)
 			(effects
 				(font
@@ -22324,7 +22324,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D98")
+					(reference "LED28")
 					(unit 1)
 				)
 			)
@@ -22410,7 +22410,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83fa3138-2c0a-4241-93ad-0c27600a145a")
-		(property "Reference" "D63"
+		(property "Reference" "LED5"
 			(at 365.76 112.9598 0)
 			(effects
 				(font
@@ -22470,7 +22470,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D63")
+					(reference "LED5")
 					(unit 1)
 				)
 			)
@@ -22552,7 +22552,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9567838e-4625-4177-930f-5caa4e61f80e")
-		(property "Reference" "D67"
+		(property "Reference" "LED10"
 			(at 339.09 133.2798 0)
 			(effects
 				(font
@@ -22612,7 +22612,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D67")
+					(reference "LED10")
 					(unit 1)
 				)
 			)
@@ -22764,7 +22764,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9cfc640e-b7ed-417d-aed0-fe9e3c122cbb")
-		(property "Reference" "D58"
+		(property "Reference" "LED4"
 			(at 339.09 112.9598 0)
 			(effects
 				(font
@@ -22824,7 +22824,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D58")
+					(reference "LED4")
 					(unit 1)
 				)
 			)
@@ -22840,7 +22840,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e26e0e9-78bc-4915-a92c-5821787bd842")
-		(property "Reference" "D85"
+		(property "Reference" "LED15"
 			(at 313.69 152.3298 0)
 			(effects
 				(font
@@ -22900,7 +22900,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D85")
+					(reference "LED15")
 					(unit 1)
 				)
 			)
@@ -22984,7 +22984,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1e68575-529d-4db9-8317-7a3687bcb04c")
-		(property "Reference" "D97"
+		(property "Reference" "LED27"
 			(at 313.69 190.4298 0)
 			(effects
 				(font
@@ -23044,7 +23044,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D97")
+					(reference "LED27")
 					(unit 1)
 				)
 			)
@@ -23060,7 +23060,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3c83fb1-c941-482b-8a38-d6ad5349c1af")
-		(property "Reference" "D92"
+		(property "Reference" "LED22"
 			(at 339.09 171.3798 0)
 			(effects
 				(font
@@ -23120,7 +23120,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D92")
+					(reference "LED22")
 					(unit 1)
 				)
 			)
@@ -23206,7 +23206,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a64f2fac-4afd-484d-b5fb-dfba53b55b7b")
-		(property "Reference" "D91"
+		(property "Reference" "LED21"
 			(at 313.69 171.3798 0)
 			(effects
 				(font
@@ -23266,7 +23266,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D91")
+					(reference "LED21")
 					(unit 1)
 				)
 			)
@@ -24052,7 +24052,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c47e5be0-16cf-4064-b67a-6930961cb8aa")
-		(property "Reference" "D69"
+		(property "Reference" "LED8"
 			(at 288.29 133.2798 0)
 			(effects
 				(font
@@ -24112,7 +24112,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D69")
+					(reference "LED8")
 					(unit 1)
 				)
 			)
@@ -24264,7 +24264,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0abe628-ce86-4c4a-a710-014c8cb707b4")
-		(property "Reference" "D95"
+		(property "Reference" "LED25"
 			(at 265.43 190.4298 0)
 			(effects
 				(font
@@ -24324,7 +24324,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D95")
+					(reference "LED25")
 					(unit 1)
 				)
 			)
@@ -24410,7 +24410,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d77aa6d7-19b0-44b8-9dfe-cfd53b170325")
-		(property "Reference" "D88"
+		(property "Reference" "LED18"
 			(at 391.16 152.3298 0)
 			(effects
 				(font
@@ -24470,7 +24470,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D88")
+					(reference "LED18")
 					(unit 1)
 				)
 			)
@@ -24762,7 +24762,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "de94bd0f-afc6-4f71-af72-7aaf8c4cd567")
-		(property "Reference" "D30"
+		(property "Reference" "LED2"
 			(at 288.29 112.9598 0)
 			(effects
 				(font
@@ -24822,7 +24822,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D30")
+					(reference "LED2")
 					(unit 1)
 				)
 			)
@@ -24978,7 +24978,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e3801e93-f872-46a6-9041-966933c0cc76")
-		(property "Reference" "D71"
+		(property "Reference" "LED13"
 			(at 265.43 152.3298 0)
 			(effects
 				(font
@@ -25038,7 +25038,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D71")
+					(reference "LED13")
 					(unit 1)
 				)
 			)
@@ -25054,7 +25054,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e7a34e4b-c0dc-44da-aaac-3abe6ee90144")
-		(property "Reference" "D68"
+		(property "Reference" "LED9"
 			(at 314.96 133.2798 0)
 			(effects
 				(font
@@ -25114,7 +25114,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D68")
+					(reference "LED9")
 					(unit 1)
 				)
 			)
@@ -25200,7 +25200,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea1d896d-8ed3-43d9-a041-ac8933cfdd25")
-		(property "Reference" "D65"
+		(property "Reference" "LED12"
 			(at 391.16 133.2798 0)
 			(effects
 				(font
@@ -25260,7 +25260,7 @@
 		(instances
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
-					(reference "D65")
+					(reference "LED12")
 					(unit 1)
 				)
 			)
