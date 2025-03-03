@@ -1,4 +1,4 @@
-24836561484503306
+24838302440666141
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99917,3 +99917,10 @@ polyfuse_5.1mm
 0
 2
 2
+footprints
+N14
+
+SN74AHCT125N 
+0
+14
+14
