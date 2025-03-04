@@ -18561,7 +18561,7 @@
 				)
 			)
 		)
-		(property "Value" "EVQ"
+		(property "Value" "~"
 			(at 87.63 175.26 0)
 			(effects
 				(font
