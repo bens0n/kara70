@@ -3,4 +3,5 @@
   (lib (name "cftkb")(type "KiCad")(uri "${KIPRJMOD}/cftkb.pretty")(options "")(descr ""))
   (lib (name "MX_Hotswap")(type "KiCad")(uri "${KIPRJMOD}/MX_V2/MX_Hotswap.pretty")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/discipline-lib/footprints.pretty")(options "")(descr ""))
+  (lib (name "RP2xxx_Stamp")(type "KiCad")(uri "${KIPRJMOD}/rp2xxx_stamp_footprints/KiCad/RP2xxx_Stamp.pretty")(options "")(descr ""))
 )

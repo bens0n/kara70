@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "discipline-pcb-rescue")(type "KiCad")(uri "${KIPRJMOD}/discipline-pcb-rescue.kicad_sym")(options "")(descr ""))
   (lib (name "discipline-lib")(type "KiCad")(uri "${KIPRJMOD}/discipline-lib/2025-03-02_22-54-51.kicad_sym")(options "")(descr ""))
+  (lib (name "RP2xxx_Stamp")(type "KiCad")(uri "${KIPRJMOD}/rp2xxx_stamp_footprints/KiCad/RP2xxx_Stamp.kicad_sym")(options "")(descr ""))
 )
