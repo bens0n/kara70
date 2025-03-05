@@ -11586,28 +11586,6 @@
 			)
 		)
 	)
-	(global_label "VSYS"
-		(shape input)
-		(at 22.86 233.68 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e822812f-eef1-4cc7-9909-b4815d4e5acf")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 15.9328 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "col13"
 		(shape input)
 		(at 161.29 163.83 0)
@@ -25129,6 +25107,68 @@
 			(project "discipline-pcb"
 				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
 					(reference "D83")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "discipline-pcb-rescue:+5V-power")
+		(at 22.86 233.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a9fe03c0-b86e-4377-819b-287d135e6397")
+		(property "Reference" "#PWR0127"
+			(at 22.86 231.394 0)
+			(effects
+				(font
+					(size 0.508 0.508)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 22.7584 230.4288 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 22.86 233.68 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 22.86 233.68 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 22.86 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c3086891-3ceb-4343-b823-639b28a2879b")
+		)
+		(instances
+			(project "discipline-pcb"
+				(path "/92ddd8bc-b115-4355-8708-2687f9ad53cd"
+					(reference "#PWR0127")
 					(unit 1)
 				)
 			)
