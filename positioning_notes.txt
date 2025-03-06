@@ -36,3 +36,17 @@ row
 
 65.88125 -> 63.317276 (2.563974) - 0.1" [should be 63.34125]
 89.69375 -> 94.78105 (5.0873) - 0.2" [should be 94.77375]
+
+
+63.34125
+94.77375
+
+13.75 from 1st 1.25u
+
+59 2.3812 0.125 (0.25/2) <- take as 0 offset (remove 0.125 from the rest)
+60 26.1938 1.25
+61 50.0062 2.5
+spacebar at 128.58775 should be 128.5875
+73 209.551436  should be 209.55005  (missed out spacebar at 7u so this should be 7 + (1.25/2) + (1.5/2)) [this is 1 um too far]
+74 at 238.107628 should be 238.12505 [17 um]
+57 at 264.301378 should be 264.3188 [17 um]
