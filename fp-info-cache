@@ -1,4 +1,4 @@
-24854092544864100
+24861070334733673
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99904,6 +99904,13 @@ module usb pcb swd
 80
 40
 cftkb
+RaspberryPi_CPico 2
+Raspberry Pi Pico (non-W) surface-mount footprint with debug pads for hand soldering, supports Raspberry Pi Pico 2 (non-W), https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
+module usb pcb swd
+0
+80
+40
+cftkb
 SW_Cherry_MX1A_1.00u_PCB-NOSCREEN
 Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 cherry mx keyswitch MX1A 1.00u PCB
@@ -99953,6 +99960,13 @@ cherry mx keyswitch MX1A 2.75u PCB
 2
 2
 cftkb
+SW_Cherry_MX1A_2.75u_PCB_NOSCREEN 2
+Cherry MX keyswitch, MX1A, 2.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 2.75u PCB
+0
+2
+2
+cftkb
 SW_PUSH_6mm
 https://www.omron.com/ecb/products/pdf/en-b3f.pdf
 tact sw push 6mm
@@ -99982,6 +99996,20 @@ polyfuse_5.1mm
 2
 footprints
 N14
+
+SN74AHCT125N 
+0
+14
+14
+footprints
+N14 2
+
+SN74AHCT125N 
+0
+14
+14
+footprints
+N14 3
 
 SN74AHCT125N 
 0
