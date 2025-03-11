@@ -265,10 +265,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../gerbers/base/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "base.step",
       "svg": "",
       "vrml": ""
     },
