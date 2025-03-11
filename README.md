@@ -1,13 +1,4 @@
-# DISCIPLINE
- 65% keyboard assembled with only through hole components, including usb type-c
+# kara70
+70% FRL TKL keyboard assembled with primarily through hole components, including usb type-c. Inspired by cftkb [discipline](https://github.com/coseyfannitutti/discipline) and [mysterium](https://github.com/coseyfannitutti/mysterium), and also envious' [delirium](https://github.com/Envious-Data/Env-KB). 
 
-[BOM, Build Guide, and Flashing Information](./doc)
-
-Kits available at [cftkb.com](https://www.cftkb.com)
-
-**[Optional High Profile Lasercut Acrylic Case](./case)**
-
-![discipline](./doc/images/discipline.jpeg)
-![](./doc/images/discipline-kicad.png)
-![](./doc/images/discipline-top.png)
-![](./doc/images/discipline-bottom.png)
+The microcontroller has been updated from an atmega to an RP2040, which is mounted on the back-side to maintain the through-hole look. A slightly unnecessary logic shifter does double duty as a pretend through-hole controller. 
