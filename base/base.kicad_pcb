@@ -84,7 +84,7 @@
 				(type "copper")
 				(thickness 0.035)
 			)
-			(layer "dielectric 1"
+			(layer "dielectric 2"
 				(type "core")
 				(thickness 1.51)
 				(material "FR4")
